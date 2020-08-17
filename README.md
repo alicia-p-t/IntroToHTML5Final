@@ -1,4 +1,5 @@
 # IntroToHTML5Final.github.io
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,7 +17,7 @@
 		<h2 id="FavoriteFoods">Favorite Foods</h2>
 		<ul>
 			<li>Sushi</li>
-			<li>Korean Food</li>
+			<li>Korean</li>
 			<li>Pastries</li>
 			<li>Ice Cream</li>
 		</ul>
