@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Intro to HTML5 Final Project</title>
 </head>
 <body>
 	<header>
